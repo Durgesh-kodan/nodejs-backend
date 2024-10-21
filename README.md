@@ -11,7 +11,7 @@
 1. Clone the repository:
 
    ```bash
-   https://github.com/Durgesh-kodan/nodejs-backend.git
+   git clone https://github.com/Durgesh-kodan/nodejs-backend.git
 
    ```
 
